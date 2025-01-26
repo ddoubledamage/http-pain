@@ -24,3 +24,7 @@ body {
 button {
     margin-left: 5px;
 }
+
+.ticket-checkbox {
+    background-color: red;
+}
